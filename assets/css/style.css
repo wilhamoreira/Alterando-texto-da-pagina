@@ -33,6 +33,8 @@ input{
 button{
   background-color: rgb(60, 60, 248);
   width: 30%;
+  min-width: 90px;
+  
 }
 .input:hover{
   background-color: lightgray
